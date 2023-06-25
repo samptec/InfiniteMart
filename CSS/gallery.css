@@ -1,0 +1,40 @@
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+@media (min-width: 992px) {
+  .rounded-lg-3 { border-radius: .3rem; }
+}
+.foot-sm-links {
+  background-color: #494a49;
+}
+
+.Facebook {
+  margin-left: 44%;
+  margin-right: 5px;
+  
+}
+
+.Twitter {
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+.Whatsapp {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.LinkedIn {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.Instagram {
+  margin-left: 5px;
+  margin-right: 5px;
+}
